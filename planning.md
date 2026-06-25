@@ -29,7 +29,7 @@ This knowledge is valuable because the official course catalog tells you what a 
 | 4 | Rate My Professor | Reviews for Sumana Sur (Business) | https://www.ratemyprofessors.com/professor/125677 |
 | 5 | Rate My Professor | Reviews for Michael Santoro (Business)  | https://www.ratemyprofessors.com/professor/2220418 |
 | 6 | Rate My Professor | Reviews for Robert Finocchio (Business) | https://www.ratemyprofessors.com/professor/135191 |
-| 7 | Niche.com | Student academic reviews for SCU | https://www.niche.com/colleges/santa-clara-university/reviews/ |
+| 7 | Rate My Professor | Reviews for Ramin Moazzeni (CS) | https://www.ratemyprofessors.com/professor/1984940 |
 | 8 | Rate My Professor | Reviews for Amr Elkady (CS) | https://www.ratemyprofessors.com/professor/1996092 |
 | 9 | Rate My Professor | Reviews for Michele Goins (CS) | https://www.ratemyprofessors.com/professor/1663424 |
 | 10 | Poets&Quants | Review for Esther Sackett (Business) | https://poetsandquantsforundergrads.com/news/2022-best-undergraduate-professors-esther-sackett-santa-clara-university-leavey-school-of-business/ |
@@ -47,7 +47,7 @@ Chunk size: 300 tokens
 
 Overlap: 50 tokens
 
-Reasoning: Most of my sources are RMP reviews, which are short being 2 - 5 sentences each. A 300 token chunk should hold 1 – 3 complete reviews together and keep the full context of each student opinion without merging reviews into one chunk. I will overlap 50 tokens since one student's review doesn't really continue into the next student's review, so I don't need a lot of overlap. This is to ensure that if a review gets split across two chunks, the key sentence isn't lost entirely. I will split longer documents like the Poets&Quants article and Niche.com reviews into more chunks.
+Reasoning: Most of my sources are RMP reviews, which are short being 2 - 5 sentences each. A 300 token chunk should hold 1 – 3 complete reviews together and keep the full context of each student opinion without merging reviews into one chunk. I will overlap 50 tokens since one student's review doesn't really continue into the next student's review, so I don't need a lot of overlap. This is to ensure that if a review gets split across two chunks, the key sentence isn't lost entirely. I will split longer documents like the Poets&Quants article into more chunks.
 
 ---
 

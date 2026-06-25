@@ -1,0 +1,1452 @@
+3.3
+/ 5
+Overall Quality Based on 80 ratings
+Nicholas Tran
+Professor in the Computer Science department at Santa Clara University
+54%
+Would take again
+3.7
+Level of Difficulty
+
+Rate
+Arrow Icon
+Compare
+I'm Professor Tran
+Rating Distribution
+Awesome 5
+
+27
+Great 4
+
+18
+Good 3
+
+8
+OK 2
+
+15
+Awful 1
+
+12
+Similar Professors
+5.00
+Michael Schimpf
+4.70
+Krishna Ramamoorthy
+4.50
+Ramin Moazzeni
+80 Student Ratings
+All courses
+Quality
+5.0
+Difficulty
+5.0
+CSCI163
+Mar 20th, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: Yes
+Theory of Algorithms is a difficult class, of course. The homework follows the lectures, but it takes a lot of time to complete. Professor Tran is very caring and curves grades generously. He provides practice exams before each midterm, and there is no cumulative final. Many concepts take a few days to fully digest. Highly recommended!
+Caring
+Test heavy
+Graded by few things
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+3.0
+Difficulty
+4.0
+CSCI161
+Dec 20th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: N/A
+Often I felt the lectures dragged on and didn't explain things as well as they could have been explained. Concepts were difficult to fully grasp towards the end of the quarter. Homework was fine. However, exams were tough. Just memorizing the problems from class will not get you a good grade. However, exams were curved, which helped.
+Lecture heavy
+Test heavy
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+2.0
+Difficulty
+5.0
+CSCI161
+Dec 11th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: N/A
+His handwriting impossible to understand, and as soon as he's done writing, he will turn the page, so good luck if you didn't copy fast enough - HW is alright, but he's a tough grader when it comes to exams, you either get the question perfect or lose half the credit so even small mistakes can cost you a letter grade - other than that hes lovely
+Tough grader
+Lecture heavy
+Graded by few things
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+2.0
+CSCI161
+Dec 10th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+He actually cares about what hes teaching and sets up a problem & solves it by hand so you know why an algorithm is the way it is. He goes deep in math proofs when it comes to decidability so be refreshed on discrete math. Engaging lectures! DO. NOT. MEMORIZE. FORMULAS. Trust me actually learn WHY something is possible/impossible so u can prove it.
+Caring
+Respected
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+3.0
+CSCI162
+May 1st, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+While others teach with their lips, my guy teaches with pure vibes. Listening to his lectures is lowk a spiritual experience.
+Get ready to read
+Hilarious
+Accessible outside class
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+2.0
+Difficulty
+3.0
+CS60
+Apr 2nd, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: Yes
+His lectures was him just writing the code straight from the textbook with very little explanation, he wouldn't really teach so it was up to you to self study. However when it came to the biguint that really isn't on the internet or even in the textbook so that will basically hurt your grade the most.
+Lecture heavy
+Test heavy
+Graded by few things
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+1.0
+CSCI60
+Mar 24th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Tran doesn't always explain things clearly in class, but he's very approachable outside of class. He patiently answered all my questions over email. Plus, he curves a lot, I thought I totally messed up the final, but I still ended up with an A. I couldn't believe my eyes when I checked my grade.
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+1.0
+CSCI161
+Sep 27th, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+He's a great professor. His lectures are amazing and he is very easy to understand. His tests are also very easy. Definitely would take again!
+Gives good feedback
+Inspirational
+Caring
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+4.0
+Difficulty
+4.0
+CSCI163
+Jun 17th, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B-
+Textbook: Yes
+The course is challenging, but doing past exams can greatly improve your chances of getting a good grade. The professor curves grades significantly, so don't stress too much.
+Amazing lectures
+Caring
+Test heavy
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+4.0
+Difficulty
+3.0
+COEN379
+Apr 12th, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: Yes
+Tran is a good professor. Class isn't as hard as people make it out to be. It requires a good amount of studying. It takes a lot of time to complete homework, but it is worth it as it prepares you for exams. Subject matter is pretty difficult, but Tran tries to teach in a clear way. Curves the class, and my grade was higher than I expected
+Get ready to read
+Accessible outside class
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+2.0
+Difficulty
+4.0
+CS60
+Apr 3rd, 2024
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+He is kind and accessible out of class. His class is lecture heavy and he types in codes verbatim from a textbook with little explanation, making it hard to follow. The 3 tests make up 75% of the grade and the lab portion isn't calculated into it. He provides example tests but his tests are harder. He curves based on the mean and sd of the class.
+Lots of homework
+Lecture heavy
+Graded by few things
+Helpful
+Thumbs up
+1
+Thumbs down
+0
+
+Quality
+2.0
+Difficulty
+5.0
+CSCI60
+Apr 2nd, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C
+Textbook: N/A
+Professor Tran is very accessible and a very polite individual. However, there are major concerns in the way he teaches. Infact he rather than teaches, speed runs the class and assumes we know what he is doing. The homework is alright, and he posted previous midterms, but bro doesnt follow what he provides. He is aight but avoid if possible!
+Tough grader
+Accessible outside class
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+1.0
+Difficulty
+5.0
+CSCI60
+Mar 21st, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C
+Textbook: Yes
+I have no idea how Professor Tran's ratings are as high as they are. He is one of the worst CS professors at SCU. He doesn't know how to teach at all and spends all of class typing code (copied verbatim from the textbook without explanation). Exams make up 75% of your grade, so not doing well on even one sets you up for failure. Avoid at all costs!
+Lecture heavy
+Test heavy
+Graded by few things
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+1.0
+Difficulty
+5.0
+CS60
+Mar 7th, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C+
+Textbook: N/A
+He really needs to fix the way he teaches his students. All he does in class is type up a storm and assumes we know what he's doing. Tests were also hard so we ended up having to do a lot of self-studying. Truly one of the professors of all time.
+Tough grader
+Test heavy
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+1.0
+Difficulty
+4.0
+CS60
+Mar 7th, 2024
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Okay Guys! I love the clapping motion that he does, but not his teaching!!!!!!!! do not take this guy's class. Bro types up a severe thunderstorm.
+Tough grader
+Lots of homework
+Test heavy
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+1.0
+Difficulty
+4.0
+CS60
+Feb 22nd, 2024
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Prof Tran is a very nice guy and very accessible outside of class. However, he seriously just sucks at teaching. He never explains what he is typing and he just types up a storm for an hour during class. You basically just type the whole class and follow his code. The homework is excessive and takes several hours.
+Lots of homework
+Lecture heavy
+Accessible outside class
+Helpful
+Thumbs up
+1
+Thumbs down
+0
+
+Quality
+2.0
+Difficulty
+4.0
+CSCI60
+Dec 13th, 2023
+For Credit: Yes
+Grade: C
+Textbook: Yes
+Tran is a nice guy but his lectures are very dry. Weekly homeworks can get unreasonably long. Grading criteria isn't clear. Final assessment: mid
+Helpful
+Thumbs up
+1
+Thumbs down
+1
+
+Quality
+5.0
+Difficulty
+4.0
+CSCI161
+Oct 11th, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+He is really nice!
+Helpful
+Thumbs up
+0
+Thumbs down
+1
+
+Quality
+2.0
+Difficulty
+4.0
+CSCI161
+Jun 19th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: Rather not say
+Textbook: Yes
+Has a bit of an ego and doesn't explain things well, always diverges from textbook and does things his own way that's different from available resources. Always tries to trick us when it comes to test preparation. I did ok but I would not recommend this professor.
+Helpful
+Thumbs up
+1
+Thumbs down
+0
+
+Quality
+2.0
+Difficulty
+5.0
+COEN379
+Jun 17th, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C+
+Textbook: N/A
+Warning! Take the class at your own risk. The course content is great but not the grading and homework.
+Tough grader
+Lots of homework
+Test heavy
+Helpful
+Thumbs up
+1
+Thumbs down
+0
+
+Quality
+4.0
+Difficulty
+4.0
+COEN379
+Jun 14th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: Yes
+Great professor. The reason he has bad reviews is because the subject matter is inherently difficult, but he is the only one who can teach it. He genuinely wants you to learn. Beware the tests, there are 2 of them and heavily weighted towards your grade. Note that this class is in the math dep. and they have very unfair grading policies.
+Lecture heavy
+Test heavy
+Graded by few things
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+2.0
+CSCI61
+May 9th, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A-
+Good prof highly recommend
+Online Savvy
+Helpful
+Thumbs up
+0
+Thumbs down
+1
+
+Quality
+3.0
+Difficulty
+3.0
+CSCI61
+Apr 3rd, 2023
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: C+
+Textbook: N/A
+Boring lectures, didn't work for me. had to self-learn and it didn't go well. Especially when 25% is depending on homework and the homework builds on some unreasonably complicated codes. However he is a nice person and is very helpful in office hour.
+Caring
+Respected
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+2.0
+Difficulty
+5.0
+COEN279
+Dec 5th, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: N/A
+Don't take if you want your mental health stable, or you will feel like living in hell with doomed emotions every week. Has 8 heavy homeworks but only counted 20%, final & midterm counted 80%. May sound "not heavy" but just try taking this course when you are struggling in job hunting as an F-1 student.
+Tough grader
+Lots of homework
+Graded by few things
+Helpful
+Thumbs up
+2
+Thumbs down
+0
+
+Quality
+1.0
+Difficulty
+5.0
+COEN179
+Aug 29th, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: D
+Textbook: Yes
+Dude's so stubborn. COEN 179 was a very heavy tested class, two midterms and a final in the summer. He seems like a nice guy but his lecture styles isn't very helpful and I pretty much learned everything online by myself. He's a very hard grader, no partial credit at all in the exams. I would avoid him.
+Test heavy
+Accessible outside class
+Helpful
+Thumbs up
+1
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+4.0
+COEN279
+Jan 6th, 2021
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: Yes
+I love Prof. Tran as he really cares about students and if they understand the materials. This class itself is not easy but he does a good job getting across complex concepts. Hes also very responsive. Even if you send him an email at 11pm you will get a reply immediately.
+Helpful
+Thumbs up
+0
+Thumbs down
+3
+
+Quality
+2.0
+Difficulty
+4.0
+COEN279
+Dec 12th, 2020
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Textbook: Yes
+Super average professor. Boring and unclear lecturer. The lecture slides really bad example and didnt match the difficulty of homework and exam. The exam is 80% of the grade( pretty harsh grader) so, avoid him if u can.
+Graded by few things
+Test heavy
+Helpful
+Thumbs up
+2
+Thumbs down
+0
+
+Quality
+3.0
+Difficulty
+4.0
+Computer IconCSCI163
+Dec 7th, 2020
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: B
+Textbook: Yes
+Online Class: Yes
+Tran is a nice guy but a very mediocre prof. Lectures often confusing due to poor explanations of algorithms, messy annotations, and bad graphics/examples. 3 non-cumulative midterms (no final) that are very tough due to 1-hr time limit. Class average on tests 60-70%. If you want to really learn algos, you will have to do tons of individual learning
+Lots of homework
+Test heavy
+Lecture heavy
+Helpful
+Thumbs up
+2
+Thumbs down
+0
+
+Quality
+3.0
+Difficulty
+4.0
+Computer IconCOEN179
+Aug 3rd, 2020
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: Audit/No Grade
+Textbook: No
+Online Class: Yes
+First half should be easy but gets progressively harder. Had to Pass/No Pass this course. Notes aren't really useful. Textbook is useless in the practical sense. Homework is somewhat similar to exams. Exams, including the final, are not cumulative so that was a life saver. Great for students who can recognize patterns and concepts easily.
+Accessible outside class
+Graded by few things
+Test heavy
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+4.0
+Difficulty
+4.0
+CSCI163A
+Apr 7th, 2020
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+The class's difficulty increased exponentially. Do well in the first half! Super tough course, and Tran goes too quickly because there's so much material, sometimes it's hard to get him to answer questions in class-so make sure to go to office hours if you want to survive. Tran is a great teacher though and makes more sense than the textbook.
+Respected
+Lots of homework
+Skip class? You won't pass.
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+5.0
+CSCI161
+Apr 7th, 2020
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Very tough class, tough material, but Tran does a good job of teaching it. It gets progressively harder, there's a weekly homework, and the tests are pretty predictable based off of homework and in class examples. Class isn't mandatory, but don't skip. And go to office hours. Tran is actually hilarious once you talk to him 1-1
+Respected
+Lecture heavy
+Tough grader
+Helpful
+Thumbs up
+0
+Thumbs down
+1
+
+Quality
+5.0
+Difficulty
+3.0
+COEN279
+Feb 3rd, 2020
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+- Course is well structured and comprehensive. Helps you understand the subject - Course notes are clear and easy to understand - Gives sample exams to help you know what to expect - No group project. Just assignments and exams
+Clear grading criteria
+Amazing lectures
+Caring
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+4.0
+Difficulty
+5.0
+COEN279
+Dec 20th, 2019
+Attendance: Not Mandatory
+Would Take Again: No
+Textbook: No
+Homework , midterms, final exams are very difficult, will reply to email asap, solves doubts, was lost after midterm, don't take if you want grades, will learn a lot in this class
+Lots of homework
+Test heavy
+Lecture heavy
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+4.0
+COEN379
+Oct 30th, 2019
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Tran is great. His classes can be pretty difficult but you learn a ton in them. He is also a nice guy in general and was always very helpful throughout my classes I took with him. Would definitely recommend his classes to everyone.
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+4.0
+COEN379
+Feb 6th, 2019
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: No
+Probably the best professor in SCU Computer Science. He is always there if you have any doubt in the lecture or you have doubt in Any algorithm or Data structure. He also promptly replies to your email.
+Respected
+ACCESSIBLE OUTSIDE CLASS
+Caring
+Helpful
+Thumbs up
+1
+Thumbs down
+1
+
+Quality
+1.0
+Difficulty
+5.0
+CSCI161
+Dec 7th, 2018
+Attendance: Not Mandatory
+Would Take Again: No
+Textbook: Yes
+Terrible, terrible professor. The final exam was unpredictable, and almost entirely different from his lectures. He grades very harshly, and doesn't take into consideration how much effort you put into the class. He literally doesn't care about his students at all.
+Tough Grader
+Helpful
+Thumbs up
+7
+Thumbs down
+3
+
+Quality
+4.0
+Difficulty
+4.0
+COEN279
+Dec 1st, 2018
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: Not sure yet
+Textbook: Yes
+Course subject matter difficult. Instructor is good lecturer & knows material well. Homework is easy. Tests questions very hard, theoretical, & weakly related to lectures. Many students r lost after midterm. Students that want an easy grade should not take this Professor. If you want to learn AND u dont care about ur grade, this is for u.
+Respected
+Skip class? You won't pass.
+Caring
+Helpful
+Thumbs up
+3
+Thumbs down
+2
+
+Quality
+4.0
+Difficulty
+3.0
+CSCI10
+Aug 5th, 2018
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: No
+I took this course over the summer concurrently with another class. The pace is lightning speed, so don't wait to seek help if you need it. Dr. Tran is a nice professor, willing to stop & clear confusion during his lectures. He kinda lets the exams sneak up on you, so prepare for them in advance. Final presentation & HW are easy to ace with effort.
+Skip class? You won't pass.
+TEST HEAVY
+Caring
+Helpful
+Thumbs up
+2
+Thumbs down
+2
+
+Quality
+1.0
+Difficulty
+4.0
+COEN279
+Jul 15th, 2018
+Attendance: Not Mandatory
+Would Take Again: No
+Textbook: No
+Professor teaches one thing and then gives test questions on another. Even his lectures are a little vague. I hope they were more structured.
+Tough Grader
+TEST HEAVY
+LECTURE HEAVY
+Helpful
+Thumbs up
+5
+Thumbs down
+1
+
+Quality
+2.0
+Difficulty
+4.0
+COEN379
+Jul 1st, 2018
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: A-
+Textbook: Yes
+Average Class (Conceptually) : not very good.
+Get ready to read
+Skip class? You won't pass.
+TEST HEAVY
+Helpful
+Thumbs up
+4
+Thumbs down
+0
+
+Quality
+4.0
+Difficulty
+4.0
+COEN279
+Jul 1st, 2018
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Overall : Should take this class. Pros: You will learn a lot. Gives good amount of homework which eventually helps a lot, later. Grading policy is fixed and transparent. Cons: Classes taken after mid-term were not good. Most of students didn't understand the concepts he conveyed.
+Tough Grader
+Respected
+LOTS OF HOMEWORK
+Helpful
+Thumbs up
+1
+Thumbs down
+3
+
+Quality
+5.0
+Difficulty
+4.0
+CS163ACSCI163B
+Jun 11th, 2018
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: No
+Very kinda, clear, and helpful. He wants to make sure everyone understands the material and will respond to all emails quickly. Always has exams with super easy questions, and very crafty questions. A little difficult to study for though.
+Tough Grader
+Respected
+Skip class? You won't pass.
+Helpful
+Thumbs up
+1
+Thumbs down
+3
+
+Quality
+5.0
+Difficulty
+3.0
+CSCI6061163
+Dec 10th, 2017
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Professor Tran is an excellent professor. I had him for the latter part of the intro sequence (60, 61) as well as for 163. His lectures are clear and to the point. Homework can be tricky at times, but he's very accessible by email and helps out in office hours. Tests should have more chances for partial credit, but overall I highly recommend him.
+ACCESSIBLE OUTSIDE CLASS
+GRADED BY FEW THINGS
+Would take again
+Helpful
+Thumbs up
+2
+Thumbs down
+3
+
+Quality
+4.0
+Difficulty
+3.0
+COEN279
+Dec 6th, 2017
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: No
+The lectures are good overall and related with the real life help. You would have to study details by yourself. Assignments are of 2 questions. 1 easy 1 difficult. Tests are the same. The # lectures should be more for this subject
+Respected
+Amazing lectures
+Would take again
+Helpful
+Thumbs up
+0
+Thumbs down
+3
+
+Quality
+5.0
+Difficulty
+4.0
+COEN279
+Jul 20th, 2017
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: Yes
+The professor has restored my faith in the quality of SCU . He is to the point, gives amazing lectures and you will learn a lot. Fair grading and so you need to work real hard to get good grades. If you wish to learn algorithms well,there is no second thought,go for his class.
+Tough Grader
+Respected
+Amazing lectures
+Helpful
+Thumbs up
+3
+Thumbs down
+4
+
+Quality
+5.0
+Difficulty
+2.0
+CSCI6061161
+Apr 22nd, 2017
+For Credit: Yes
+Would Take Again: Yes
+Textbook: No
+Awesome professor. Respectful, relatively easy grader, occasional joke. Weekly assignments can sometimes be challenging but he is always willing to help. Exams are straightforward with no trick questions and usually only cover the basics. Lectures can be long but translate well to assignments and exams.
+Respected
+ACCESSIBLE OUTSIDE CLASS
+LECTURE HEAVY
+Helpful
+Thumbs up
+1
+Thumbs down
+4
+
+Quality
+4.0
+Difficulty
+4.0
+COEN279
+Oct 22nd, 2016
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Textbook: No
+This professor knows his stuff very well.
+Participation matters
+Skip class? You won't pass.
+Amazing lectures
+Helpful
+Thumbs up
+0
+Thumbs down
+5
+
+Quality
+4.0
+Difficulty
+3.0
+CSCI60
+Mar 28th, 2016
+For Credit: Yes
+Grade: A
+Textbook: No
+Really good professor and class! The volume of content combined with the speed at which it's presented can seem daunting at times, but his lectures are usually pretty clear. The class is very reasonable, just be prepared to put in some work where/if you need to. Dr. Tran is super helpful and knowledgeable so if you've got questions, definitely ask.
+Helpful
+Thumbs up
+2
+Thumbs down
+3
+
+Quality
+4.0
+Difficulty
+3.0
+CSCI60
+Mar 28th, 2016
+For Credit: Yes
+Grade: A
+Textbook: No
+Really good professor and class! The volume of content put together with the speed at which it's presented can be a little daunting sometimes, and the pace is quicker than CSCI10. But it's very reasonable, just be prepared to put in some work if you need to. Dr. Tran is super helpful and knowledgeable so if you've got questions, definitely ask.
+Helpful
+Thumbs up
+1
+Thumbs down
+3
+
+Quality
+5.0
+Difficulty
+4.0
+CS60
+Mar 27th, 2016
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: Yes
+Very accessible and extremely willing to help. The text is mainly a reference that supports his lectures and notes. Tests require you to apply what you've learned on problems that really require only short answers. His reputation for difficulty is worse than the actual difficulty of the class.
+Helpful
+Thumbs up
+1
+Thumbs down
+4
+
+Quality
+3.0
+Difficulty
+5.0
+CSCI60
+Mar 22nd, 2016
+For Credit: Yes
+Grade: B+
+Textbook: Yes
+Prof breezes over examples in lectures very quickly and homework problems are much more difficult and time consuming than what's covered in class (Bigint gives me nightmares) Midterms cover info not covered in lectures, but final was alright. Prof Tran answers questions via email very quickly (within 5 hours) which is a plus.
+Helpful
+Thumbs up
+4
+Thumbs down
+1
+
+Quality
+3.5
+Difficulty
+4.0
+179379
+Aug 6th, 2015
+Textbook: Yes
+One of the top rating professor among students. He know what he's teaching. Lecture may sometimes be hard to follow due to his handwriting but his office hour is super helpful. He will answer all your question and show all the steps you need. You can actually learn stuff from his class.
+Helpful
+Thumbs up
+2
+Thumbs down
+3
+
+Quality
+1.0
+Difficulty
+5.0
+COEN379
+Jun 20th, 2015
+Attendance: Not Mandatory
+Grade: D
+Textbook: No
+He doesn't explain, just asks student to do all the work, then gives every one bad grades at the end. Forget about curving grades. Course is useless
+Helpful
+Thumbs up
+5
+Thumbs down
+6
+
+Quality
+4.5
+Difficulty
+4.0
+CSCI6061
+Jun 12th, 2015
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: Yes
+CS is meant to be hard, so you really have to work for it. Tran is helpful and patient during OH, despite being a little quiet to hear in lectures (pay attention!). He will rexplain word by word and concisely if you ask. Btw, know your stuff well for the tests bc he grades harshly on easy questions. Also, read the textbook! It will only help you.
+Helpful
+Thumbs up
+1
+Thumbs down
+2
+
+Quality
+4.5
+Difficulty
+4.0
+CSCI61
+Jun 8th, 2015
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: Yes
+He is such a nice guy. Definitely worth taking him for the first CS sequence-- his office hours are extremely helpful and the midterms just cover the homeworks and lectures. Very generous curve and an overall great class.
+Helpful
+Thumbs up
+0
+Thumbs down
+2
+
+Quality
+1.0
+Difficulty
+5.0
+COEN379
+Mar 23rd, 2015
+Textbook: No
+That is one of the most useless courses I've ever taken and wasted time in. The professor is smart but I don't think his teaching is good. It's a waste of time to attend courses for him. No clear syllabus nor course material. He refuses to provide his handouts. You have to write and follow his handwriting all over the boards. Homeworks r irrelevant
+Helpful
+Thumbs up
+3
+Thumbs down
+4
+
+Quality
+5.0
+Difficulty
+4.0
+CS60
+Mar 13th, 2015
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Professor Tran is very friendly and available to help you. Tests aren't super easy but are still fair.
+Helpful
+Thumbs up
+0
+Thumbs down
+3
+
+Quality
+5.0
+Difficulty
+1.0
+COEN279
+Nov 30th, 2014
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: No
+Prof. Tran is a genius. He is one of those rare professors that truely leave an impression on you. His homeworks are challenging and exams are hard, but if you try.. You can definitely do well. He is very approachable and helpful in clearing doubts. I highly recommend taking any class under him.
+Helpful
+Thumbs up
+2
+Thumbs down
+3
+
+Quality
+3.5
+Difficulty
+3.0
+CSCI161
+Feb 20th, 2014
+Attendance: Mandatory
+Grade: B+
+Textbook: No
+SUPER NICE AND knowledgeable professor. His handwriting is super messy and his lecture is kind of hard to follow, but if you pay attention you will learn a lot . Also if you go to his office hour he'll basically walk through everything for you again. The midterm and the final aren't hard at all and he curve. I will recommend taking his class.
+Helpful
+Thumbs up
+0
+Thumbs down
+3
+
+Quality
+1.0
+Difficulty
+5.0
+COEN279
+Feb 6th, 2014
+Attendance: Mandatory
+Textbook: No
+Do not take class under him. He is not a useful professor.
+Helpful
+Thumbs up
+7
+Thumbs down
+7
+
+Quality
+1.0
+Difficulty
+5.0
+COEN279
+Feb 2nd, 2014
+Attendance: Mandatory
+Textbook: No
+Not useful professor for algorithms subject. I will never take class with him.
+Helpful
+Thumbs up
+6
+Thumbs down
+5
+
+Quality
+3.0
+Difficulty
+2.0
+COEN279
+Dec 17th, 2013
+Textbook: No
+This prof is really good before midterm. after midterm he spents most time NP hard problem. He does'nt spend more time on dynamic and greedy which was disappointing. Very patient , he will answer all your questions. I am not happy with his grading system.
+Helpful
+Thumbs up
+5
+Thumbs down
+0
+
+Quality
+3.5
+Difficulty
+2.0
+COEN279
+Dec 6th, 2013
+Attendance: Mandatory
+Grade: Not_Sure_Yet
+Textbook: No
+One of the best Professors in college. He knows a lot about algorithms and explains everything very well. If you concentrate in class, you will definitely learn a lot of important stuff. Who cares about grades when you are actually learning something!!
+Helpful
+Thumbs up
+1
+Thumbs down
+2
+
+Quality
+3.5
+Difficulty
+3.0
+COEN279
+Nov 15th, 2013
+Textbook: No
+He knows the subject and also knows how to teach the concepts in a way that students can understand. It's just that the subject itself is hard and takes a lot of practice to become an expert at it. Time consuming class! Do not combine with other heavy course work!
+Helpful
+Thumbs up
+2
+Thumbs down
+1
+
+Quality
+2.5
+Difficulty
+3.0
+COEN179
+Jun 11th, 2013
+Textbook: No
+Tran can be kind of hard to follow, but he does an ok job of explaining algorithms and complexity, etc. And he did finally get me to understand P vs NP, even if others in the class didn't. He does like to make you do leaps of understanding on tests (Trick questions etc), but we're juniors & should be able to think critically (not being sarcastic).
+Helpful
+Thumbs up
+1
+Thumbs down
+1
+
+Quality
+3.0
+Difficulty
+4.0
+CSC116116361
+Mar 31st, 2013
+Textbook: No
+had him for 3 classes..you will succeed only if you are familiar with the material beforehand. His lectures tend to be unclear overall and his messy handwriting is a whole another story. I worked very hard only to get a C. I'd recommend if you're willing to get just a passing grade because he never fails anyone.
+Helpful
+Thumbs up
+3
+Thumbs down
+0
+
+Quality
+1.5
+Difficulty
+5.0
+CSCI10
+Dec 12th, 2012
+Textbook: No
+Such a hard class and Prof. Tran is not very organized. Spends a lot of time teaching things that you don't even need to know for exams. Goes over easy examples in class but then gives ridiculously difficult homework assignments. Office hours not helpful. He isn't able to explain things well and exams are very difficult. I worked very hard for a C
+Helpful
+Thumbs up
+2
+Thumbs down
+0
+
+Quality
+3.5
+Difficulty
+2.0
+CSCI161
+Dec 6th, 2012
+Textbook: No
+very nice and knowledgeable teacher. Gives the final grade based on curving the scores of the whole class. no major complaints.
+Helpful
+Thumbs up
+1
+Thumbs down
+3
+
+Quality
+2.0
+Difficulty
+4.0
+CS60
+Mar 13th, 2010
+Textbook: No
+Learning in this class tends to be independent, that is, he writes things in class that doesn't really pertain to the homework, then, once it is assigned, you have to figure it all out on your own. Pretty frustrating at times
+Helpful
+Thumbs up
+2
+Thumbs down
+0
+
+Quality
+1.5
+Difficulty
+4.0
+MATH11
+Jan 7th, 2010
+Textbook: Yes
+Stay away from Tran's math classes. He's very difficult to understand because of his accent and he doesn't care about students. Class is miserable and homework is often different than what is learned in class.
+Helpful
+Thumbs up
+2
+Thumbs down
+1
+
+Quality
+5.0
+Difficulty
+4.0
+COEN279
+Oct 21st, 2009
+Textbook: Yes
+Most knowledgable professor I've seen in engineering school. Extremely good at teaching! Not like some of the profs who are impatient or unfair on grading! Class is hard but fun!
+Helpful
+Thumbs up
+0
+Thumbs down
+2
+
+Quality
+4.5
+Difficulty
+1.0
+MATH12
+Jan 26th, 2009
+Textbook: Yes
+Fairly easy class. Goes over examples from book in detail, planned lectures, and trivial amount of hwk (5 problems a nite). Easy to get an A becuz of his huge curve and he's always willing to help you out.
+Helpful
+Thumbs up
+0
+Thumbs down
+2
+
+Quality
+4.0
+Difficulty
+3.0
+MATH12
+Jan 1st, 2009
+Textbook: Yes
+not terrible. tran goes over the examples in the book (which are already explained in the book...) but assigns+tests on tougher problems (most college math teachers work this way). i would recommend going over the examples again using book (which is sometimes clearer). which means class is useless (dont go). A is possible, esp w the curve!!
+Helpful
+Thumbs up
+1
+Thumbs down
+1
+
+Quality
+4.5
+Difficulty
+4.0
+AMTH377
+Dec 28th, 2008
+Textbook: Yes
+Absolutely wonderful development of topics, on the whiteboard! One of the few professors today who doesn't put all the material on a powerpoint slide and expect instant absorption. Tests are pretty difficult - study hard!
+Helpful
+Thumbs up
+0
+Thumbs down
+3
+
+Quality
+1.5
+Difficulty
+3.0
+MATH12
+Oct 28th, 2008
+Textbook: Yes
+Most frustrating class of my life. Explanation of topics is unclear and unhelpful. Does extremely simple examples and then assigns highly difficult problems for homework and even harder ones on the exams. This class made me start to hate math...
+Helpful
+Thumbs up
+3
+Thumbs down
+0
+
+Quality
+1.0
+Difficulty
+4.0
+COEN19
+Mar 1st, 2007
+Textbook: Yes
+Ugh, this guy is so incredibly boring. Not only that, he doesn't explain things very well, and doesn't seem very knowledgable about his class. His examples in class are completely different from his homework, and his office hours are a waste of time.
+Helpful
+Thumbs up
+3
+Thumbs down
+0
+
+Quality
+2.0
+Difficulty
+3.0
+MATH61
+Jun 5th, 2005
+This man is so increadibly boring that he made me start to dislike my favorite subject ever...
+Helpful
+Thumbs up
+3
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+3.0
+MATH164
+Jul 3rd, 2004
+good lecturer, very helpful, knowledgeable about the subject
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+4.5
+Difficulty
+4.0
+MATH61
+Jun 2nd, 2004
+good explainations, very knowledgeable and helpful during office hours. tests can be a little difficult and usually involve more than just plug and chug.
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+4.5
+Difficulty
+3.0
+MATH164
+May 31st, 2004
+very good lecturer and he knows his stuff. helpful and probably one of the most patient teachers during office hours. tests may be tricky, but they make you sharp
+Helpful
+Thumbs up
+0
+Thumbs down
+0

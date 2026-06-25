@@ -53,7 +53,7 @@
 **Why these choices fit your documents:**
 
 **Final chunk count:**
-
+688
 ---
 
 ## Sample Chunks
@@ -64,11 +64,11 @@
 
 | # | Source document | Chunk text |
 |---|----------------|------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | amir.txt | Amr Elkady Computer Science Santa Clara University Mandatory Always refer to class notes. Never forget to revise everything. Please pay attention in his lectures. You will receive all the answers you seek in class. Mandatory The professor is very good and straightforward. Read the class guidelines |
+| 2 | amir.txt | and straightforward. Read the class guidelines and you are good to go. Professor Elkady is one of the few professors in SCU that actually cares about the students. He ensures that you receive a constant feedback regarding your progress in class. Class: assignment heavy, worth the cause. You learn a |
+| 3 | amir.txt | assignment heavy, worth the cause. You learn a lot from the course. This is one of the reason he's the best professor & has received an award from the college too. Mandatory Good professor, would take again! One of the best course to learn things we all wish to accomplish as a graduate student. You |
+| 4 | amir.txt | all wish to accomplish as a graduate student. You will understand how to build, develop and maintain web servers at the very foundational level which is very important. You will hardly learn such important concepts out in the industry. I will recommend all to take this course. teacher. Professor |
+| 5 | amir.txt | all to take this course. teacher. Professor has a clear flow of all the topics and ensures you understand every aspect of the syllabus. Attendance is mandatory, but you will enjoy attending the classes (So not an issue). Feedback helps you to keep up with your classmates. Overall, a good professor |
 
 ---
 
