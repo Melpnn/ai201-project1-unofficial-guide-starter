@@ -10,6 +10,9 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+SCU professor and course reviews: CS/Engineering and Business departments
+
+This knowledge is valuable because the official course catalog tells you what a class covers, but not what the experience with the professor is like. Students rely on word of mouth from peers to find out whether a professor grades harshly and what an exam actually looks like. This informal knowledge exists but is scattered across Rate My Professors, student newspapers, and forums all over the internet. 
 
 ---
 
@@ -20,12 +23,12 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
+| 1 | Rate My Professor | Reviews for Natalie Linnell (CS) | https://www.ratemyprofessors.com/professor/1803411 |
+| 2 | Rate My Professor | Reviews for Nicholas Tran (CS)| https://www.ratemyprofessors.com/professor/417798 |
+| 3 | Rate My Professor | Reviews for Keyvan Moataghed (CS) | https://www.ratemyprofessors.com/professor/992788 |
+| 4 | Rate My Professor | Reviews for Sumana Sur (Business) | https://www.ratemyprofessors.com/professor/125677 |
+| 5 | Rate My Professor | Reviews for Michael Santoro (Business)  | https://www.ratemyprofessors.com/professor/2220418 |
+| 6 | Rate My Professor | Reviews for Robert Finocchio (Business) | https://www.ratemyprofessors.com/professor/135191 |
 | 7 | | | |
 | 8 | | | |
 | 9 | | | |
