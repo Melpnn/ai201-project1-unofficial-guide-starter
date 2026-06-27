@@ -51,8 +51,7 @@ This knowledge is valuable because the official course catalog tells you what a 
 
 **Why these choices fit your documents:** Most of my sources are RMP reviews, which are short being 2 - 5 sentences each. A 300 token chunk should hold 1 – 3 complete reviews together and keep the full context of each student opinion without merging reviews into one chunk. I will overlap 50 tokens since one student's review doesn't really continue into the next student's review, so I don't need a lot of overlap. This is to ensure that if a review gets split across two chunks, the key sentence isn't lost entirely. I will split longer documents like the Poets&Quants article into more chunks.
 
-**Final chunk count:**
-688
+**Final chunk count:** 688
 ---
 
 ## Sample Chunks
@@ -79,9 +78,10 @@ This knowledge is valuable because the official course catalog tells you what a 
      Consider: context length limits, multilingual support, accuracy on domain-specific text,
      latency, and local vs. API-hosted. -->
 
-**Model used:**
+**Model used:** all-MiniLM-L6-v2 (via sentence-transformers)
 
-**Production tradeoff reflection:**
+**Production tradeoff reflection:** For a real app used by thousands of students, I would think about switching to a more powerful embedding model like OpenAI's text-embedding-3-small. The model I'm using is free and fast, but it can only read 256 tokens at a time, so if a chunk is longer than that,
+it gets cut off and some information is lost. I would also test whether better accuracy is actually worth slower speed for responses.
 
 ---
 
@@ -91,36 +91,46 @@ This knowledge is valuable because the official course catalog tells you what a 
      For at least 2 of the 3, explain why the returned chunks are relevant to the query.
      Results must be text — not screenshots. -->
 
-**Query 1:**
+**Query 1:** Is Natalie Linnell a tough grader?
 
 Top returned chunks:
--
--
--
+- "unnecessarily difficult though. Never! Choose it! She's not as bad as people say. God only knows how Natalie Linnell decided on teaching as a career" (natalie_linnell.txt, distance: 0.573)
+- "Her style of coding is messy, dated, and unprofessional. The midterms and quizzes had low averages and weren't curved. 15 people dropped" (natalie_linnell.txt, distance: 0.660)
+- "I had a disappointing experience with Professor Linnell. She doesn't seem to care about the student experience, uses outdated teaching methods" (natalie_linnell.txt, distance: 0.745)
 
-Relevance explanation:
+Relevance explanation: All returned chunks come from natalie_linnell.txt and directly
+address grading difficulty, exam structure, and student frustration. The chunks mention
+low averages, no curves, and high drop rates which are all directly relevant to the
+question about tough grading.
 
 ---
 
-**Query 2:**
+**Query 2:** Which SCU CS professor do students recommend more, Tran or Linnell?
 
 Top returned chunks:
--
--
--
+- "professor, one of my favorites so far at SCU. As well-intentioned as Linnell is, her upper divs are useless." (natalie_linnell.txt, distance: 0.519)
+- "her courses. Linnell is simultaneously strict, unorganized, and vague with her grading criteria" (natalie_linnell.txt, distance: 0.581)
+- "SCU do better!! Grading is really rough and very subjective. Feels like a high school class" (natalie_linnell.txt, distance: 0.688)
 
-Relevance explanation:
+Relevance explanation: Results are dominated by Linnell's reviews because her name
+appears more frequently in contexts involving recommendations and comparisons. This is
+a known limitation of the retrieval system — comparison questions that span multiple
+documents are harder to handle than single-professor queries. The generation step
+synthesizes both professors' reviews into a complete answer.
 
 ---
 
-**Query 3:**
+**Query 3:** Is Robert Finocchio's Business class worth taking?
 
 Top returned chunks:
--
--
--
+- "This is probably the best professor you'll ever have, in terms of teaching you about actual business. Finocchio can tell..." (robert_finocchio.txt, distance: 0.589)
+- "His knowledge and experience in the valley give him a fantastic insight into current business tactics and formalities." (robert_finocchio.txt, distance: 0.613)
+- "experienced business professional and treats his students as such. Does not really use the textbook in his lectures" (robert_finocchio.txt, distance: 0.620)
 
-Relevance explanation:
+Relevance explanation: All results come from robert_finocchio.txt with low distance
+scores (0.589–0.620), indicating strong semantic matches. The chunks directly address
+teaching quality, business knowledge, and student recommendations which are exactly
+what the question asks about
 
 ---
 
@@ -133,9 +143,18 @@ Relevance explanation:
      Do not just say "I told it to use the documents" — show the actual instruction or explain
      the mechanism. -->
 
-**System prompt grounding instruction:**
+**System prompt grounding instruction:** "You are a helpful assistant that answers questions about SCU professors and courses
+using only the student reviews provided to you. STRICT RULES: Answer only using
+information from the provided documents. Do not use any outside knowledge or general
+assumptions about professors. If the documents do not contain enough information to
+answer the question, say exactly: 'I don't have enough information in my documents to
+answer that.' Always refer to specific things students said in the reviews. Never make
+up or infer information that isn't explicitly in the documents."
 
-**How source attribution is surfaced in the response:**
+**How source attribution is surfaced in the response:** Source attribution is handled programmatically. After retrieval, the source filename
+of each returned chunk is collected into a list. This list is appended
+to the response separately in the Gradio interface under a "Retrieved from" field,
+guaranteeing attribution even if the LLM forgets to cite sources in its answer.
 
 ---
 
@@ -147,29 +166,43 @@ Relevance explanation:
 
 **Grounded response 1**
 
-Query:
+Query: Is Natalie Linnell a tough grader?
 
-Response:
+Response: According to the reviews, Natalie Linnell is a tough grader. One student
+mentioned that "The midterms and quizzes had low averages and weren't curved"
+(natalie_linnell.txt), which suggests that her grading is strict. Another student
+stated that "Her grading feels biased" (natalie_linnell.txt), implying they felt her
+grading was unfair. Additionally, a student noted that "15 people dropped" the course
+(natalie_linnell.txt), which indicates the high academic demands. However, one review
+mentions she "teaches straight to the point and is extremely knowledgeable in her
+subject" (natalie_linnell.txt).
 
-Source attribution:
+Source attribution: natalie_linnell.txt
 
 ---
 
 **Grounded response 2**
 
-Query:
+Query: Is Robert Finocchio worth taking for Business?
 
-Response:
+Response: According to the student reviews, Robert Finocchio is definitely worth
+taking. One student said "If you have the chance to take him, do it!!!", indicating
+a strong recommendation. Another student stated "He is a great teacher. Probably my
+favorite freshman year teacher", showing high enthusiasm. Additionally, a student
+mentioned "I got an A and loved the class", suggesting the class is both enjoyable
+and rewarding. The reviews consistently praise Finocchio as knowledgeable and
+experienced, with one student noting his "fantastic insight into current business
+tactics" from his Silicon Valley background.
 
-Source attribution:
+Source attribution: robert_finocchio.txt
 
 ---
 
 **Out-of-scope query**
 
-Query:
+Query: What is the best restaurant I should eat at in Santa Clara?
 
-System response (refusal):
+System response (refusal): I don't have enough information in my documents to answer that.
 
 ---
 
@@ -178,9 +211,9 @@ System response (refusal):
 <!-- Describe your query interface: what are the input fields, what does the output look like?
      Then provide a complete sample interaction transcript showing a real exchange. -->
 
-**Input fields:**
+**Input fields:**  A single text box labeled "Your question" where the user types their question about an SCU professor or course.
 
-**Output format:**
+**Output format:** Two text boxes: Answer" which contains the grounded response citing specific student reviews, and "Retrieved from" which lists the source files the answer was drawn from.
 
 ---
 
@@ -189,9 +222,11 @@ System response (refusal):
 <!-- Show a complete query → response exchange as it actually appears in your interface.
      Must be text — not a screenshot. -->
 
-> **User:** 
+> **User:** Is Natalie Linnell a tough grader?
 
-> **System:** 
+> **System:** According to the reviews, Natalie Linnell is a tough grader. One student mentioned that "The midterms and quizzes had low averages and weren't curved" (natalie_linnell.txt), which suggests that her grading is strict. Another student stated that "Her grading feels biased" (natalie_linnell.txt), implying that they felt her grading was unfair. Additionally, a student noted that "15 people dropped" the course (natalie_linnell.txt), which could be indicative of a high level of difficulty or strict grading. However, it's worth noting that one review, although mostly negative, mentions that she "teaches straight to the point and is extremely knowledgeable in her subject" (natalie_linnell.txt), but this does not necessarily contradict the notion that she is a tough grader.
+>
+> Retrieved from: natalie_linnell.txt
 
 ---
 
@@ -203,11 +238,12 @@ System response (refusal):
 
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| 1 | Is Natalie Linnell a tough grader? | Students describe her grading as rough and subjective. Reviews mention mandatory attendance, cold calling, and daily homework. Only 22% of students would take her again. | System confirmed she is a tough grader, citing low exam averages, no curves, biased grading, and 15 students dropping the course. Also noted she is knowledgeable. | Relevant | Accurate | 
+| 2 | Does Nicholas Tran curve his exams? |  Yes. Multiple reviews confirm he curves grades generously and provides practice exams before each midterm. However, exams are still considered tough and small mistakes can cost half the credit on a question, so the curve helps but doesn't make it easy. | System confirmed he curves based on mean and standard deviation, though the response got confused briefly by a Moataghed review that slipped into context before self-correcting. | Partially Relevant | Partially Accurate |
+| 3 | Does Keyvan Moataghed give useful feedback on assignments? | Mostly yes. Students say his tests focus directly on lecture material, so if you attend and understand his slides you can pass without reading the textbook. He gives extra credit for answering questions in class. The course is lecture heavy and the material itself is hard, but the grading structure is manageable being two midterms, one final, two homeworks. | System said it did not have enough information, then partially answered by noting he is willing to help outside class and cares about students, but could not confirm feedback on assignments specifically. | Partially Relevant | Partially Accurate |
+| 4 | Is Robert Finocchio's Business class worth taking? |  Yes. He has a 4.5 rating and 95% of students would take him again. Students highlight his real Silicon Valley executive experience, engaging lectures, and flexible office hours. Exams are drawn from assigned readings so you need to keep up, but students describe tests as manageable if you follow his study advice. | System confirmed strongly, citing multiple student quotes recommending him and describing him as one of the best professors for learning real-world business. | Relevant | Accurate |
+| 5 | Which SCU CS professor do students recommend more, Tran or Linnell? | Nicholas Tran is more recommended. 54% of students would take him again vs only 19% for Linnell. Tran is described as caring and generous with curves. Linnell receives frequent criticism for subjective grading, cold calling, and disorganization, with some reviews saying she discouraged students from pursuing CS altogether. | System said it did not have enough information and only retrieved Linnell reviews, missing Tran entirely. Could not make the comparison. | Off-target | Inaccurate |
+
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
@@ -228,12 +264,32 @@ System response (refusal):
      results from an unrelated review" is an explanation. -->
 
 **Question that failed:**
+Which SCU CS professor do students recommend more, Tran or Linnell?
 
 **What the system returned:**
+The system said it did not have enough information to answer and only referenced
+Linnell reviews, noting students said "I would not recommend choosing her as a
+professor over other professors." There was no mention of Tran in the response
+at all, showing how it did not even bother checking that document for information.
 
 **Root cause (tied to a specific pipeline stage):**
+The failure happened at the retrieval stage. The query "Which SCU CS professor do
+students recommend more, Tran or Linnell?" contains both professor names, but the
+embedding model converted the full query into a single vector that matched most
+strongly against Linnell's reviews because her name appears far more frequently in
+negative recommendation contexts. As a result, all 5 retrieved chunks came from
+natalie_linnell.txt and none from nicholas_tran.txt. The generation stage then
+correctly refused to compare two professors when it only had data on one, but
+the root problem was that retrieval never surfaced Tran's reviews in the first place.
 
 **What you would change to fix it:**
+For comparison questions involving two named professors, I would decompose the query
+into two separate retrievals one for each professor, then merge the results before
+passing them to the LLM. For example, retrieve the top 3 chunks for "Natalie Linnell
+recommendation" and the top 3 chunks for "Nicholas Tran recommendation" separately,
+combine them into one context block, and then ask the LLM to compare. This would
+guarantee both professors are represented in the context regardless of which name the
+embedding model latches onto.
 
 ---
 
@@ -242,9 +298,12 @@ System response (refusal):
 <!-- Reflect on how planning.md shaped your implementation.
      Answer both questions with at least 2–3 sentences each. -->
 
-**One way the spec helped you during implementation:**
+**One way the spec helped you during implementation:** Writing out my chunking strategy in planning.md before writing any code made me
+think carefully about what my documents actually looked like. Because I had already noted that RMP reviews are short, I knew to pick a small chunk size of 300 tokens instead of just going with a large default. This paid off during implementation because my chunks ended up containing complete review sentences rather than random cut off fragments, which made retrieval work better. If I had skipped planning and just started coding, I probably would have used a default chunk size that was too large for short review text.
 
-**One way your implementation diverged from the spec, and why:**
+**One way your implementation diverged from the spec, and why:** My planning.md said I would use the Claude API for generation, but I ended up using
+Groq's llama-3.3-70b-versatile instead. This happened because the project instructions recommended Groq as a free option that doesn't require a paid API key. The end result was the same, and was a model that follows grounding instructions and produces cited answers so the change didn't hurt anything
+from what I originally planned.
 
 ---
 
@@ -261,12 +320,30 @@ System response (refusal):
 
 **Instance 1**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:* My Documents section and Chunking Strategy section from
+  planning.md, asking it to implement an ingest.py script using requests,
+  BeautifulSoup, and LangChain's RecursiveCharacterTextSplitter with 300 token
+  chunks and 50 token overlap.
+- *What it produced:* A working ingest.py that loaded .txt files, cleaned text
+  using regex patterns, and split documents into chunks.
+- *What I changed or overrode:* The initial clean_text function did not fully remove
+  RMP boilerplate like "Thumbs up 0 Thumbs down 0" and tag words like "Tough grader"
+  because the raw text had newlines between words that broke the regex patterns. I
+  iteratively directed the AI to rewrite the cleaning function multiple times until
+  the chunks contained mostly review text with minimal noise.
 
 **Instance 2**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:* My Retrieval Approach section and pipeline diagram, asking
+  it to implement embed.py using sentence-transformers with all-MiniLM-L6-v2,
+  ChromaDB for storage, and a retrieve() function returning top-5 chunks with
+  distance scores.
+- *What it produced:* A working embed.py that embedded all 688 chunks into ChromaDB
+  with source metadata and a retrieval function that returned relevant chunks with
+  distance scores.
+- *What I changed or overrode:* Initial retrieval tests showed high distance scores
+  for the Nicholas Tran query. I directed the AI to try larger chunk sizes (500
+  tokens) and rephrased the test queries to be more natural. After testing both
+  settings, I reverted to 300 token chunks because the larger size reduced total
+  chunks from 688 to 431 without meaningfully improving distance scores, meaning
+  less coverage for no benefit.
